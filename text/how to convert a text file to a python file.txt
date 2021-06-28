@@ -1,0 +1,8 @@
+HOW TO CONVERT A TEXT FILE TO PYTHON FILE
+
+you can convert your text to python using
+.py file converting.
+if you have a text file like this,set the type to "All files" and put
+.py at the end of your title for example "[Title].py"
+[Title] is the title of your text.
+.py is a type of file which means "Python".
